@@ -68,3 +68,6 @@ Example: "Portfolio crosses **₹10 crore** in Year 21."
 * Persist user preferences (theme, last inputs) to `localStorage`.
 * Export: CSV/Excel export for projection table.
 
+<img width="2555" height="1435" alt="Screenshot 2025-12-06 at 22 20 56" src="https://github.com/user-attachments/assets/39789ec7-92d2-4191-b4e9-39869e47dc82" />
+
+<img width="2560" height="1440" alt="Screenshot 2025-12-06 at 22 20 36" src="https://github.com/user-attachments/assets/06edc2a6-f1b7-44d2-b082-54284707ab25" />
